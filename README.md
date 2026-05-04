@@ -41,7 +41,7 @@ cd House-Price-Prediction
 pip install -r requirements.txt
 
 # 3. Run the application
-python app.py
+python -m streamlit run app.py
 ```
 
 ## 📁 Project Structure
